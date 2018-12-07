@@ -1,0 +1,11 @@
+mod = [
+	"NoOverchargeDmgIndicator"
+]
+
+package = [
+	"resource_packages/NoOverchargeDmgIndicator/NoOverchargeDmgIndicator"
+]
+
+lua = [
+	"scripts/mods/NoOverchargeDmgIndicator/*"
+]
